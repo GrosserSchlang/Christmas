@@ -1,0 +1,3 @@
+C:/shunk/Christmas/Kelton_Christmas/cmake-build-debug/CMakeFiles/Kelton_Christmas.dir
+C:/shunk/Christmas/Kelton_Christmas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/shunk/Christmas/Kelton_Christmas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

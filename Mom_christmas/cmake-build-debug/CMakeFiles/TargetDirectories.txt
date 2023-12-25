@@ -1,0 +1,3 @@
+C:/shunk/Christmas/Mom_christmas/cmake-build-debug/CMakeFiles/Mom_christmas1.dir
+C:/shunk/Christmas/Mom_christmas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/shunk/Christmas/Mom_christmas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
